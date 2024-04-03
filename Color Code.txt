@@ -1,0 +1,18 @@
+KPI COLORS
+1 #3a6af0
+2 #7731f1
+3 #29cabf
+4 #ff6384
+5 #8e5ea2
+6 #e7c0ba
+
+BG COLOR
+#2c3146
+#262a3e
+#3c4053
+
+Border line
+#375ecc
+
+Font
+#f5f5f6
